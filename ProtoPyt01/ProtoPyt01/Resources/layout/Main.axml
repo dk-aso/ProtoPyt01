@@ -13,7 +13,7 @@
         android:id="@+id/TextView1"
         android:layout_gravity="center"
         android:text="Hello"
-        android:textColor="Orange"
+        android:textColor="#ffa700"
         android:textSize="45dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
