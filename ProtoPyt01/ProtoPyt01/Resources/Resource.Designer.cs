@@ -53,6 +53,9 @@ namespace ProtoPyt01
 			// aapt resource value: 0x7f020002
 			public const int Pyt1Button = 2130837506;
 			
+			// aapt resource value: 0x7f020003
+			public const int WhiteRosePLastic = 2130837507;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
