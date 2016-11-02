@@ -2,20 +2,21 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@drawable/WhiteRosePlastic">
-    <ImageButton
-        android:id="@+id/Pyt1Button"
-        android:src="@drawable/Pyt1Button"
-        android:layout_gravity="center"
-        android:layout_width="wrap_content"
-        android:layout_height="120dp" />
-    <TextView
-        android:id="@+id/TextView1"
-        android:layout_gravity="center"
-        android:text="Hello"
-        android:textColor="#ffffff"
-        android:textSize="45dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    android:layout_height="match_parent">
+  <!-- android:background="@drawable/WhiteRosePlastic1">-->
+
+  <ImageButton
+      android:id="@+id/Pyt1Button"
+      android:src="@drawable/Pyt1Button"
+      android:layout_gravity="center"
+      android:layout_width="wrap_content"
+      android:layout_height="120dp" />
+  <TextView
+      android:id="@+id/TextView1"
+      android:layout_gravity="center"
+      android:text="Hello"
+      android:textColor="#ffffff"
+      android:textSize="45dp"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
 </LinearLayout>
