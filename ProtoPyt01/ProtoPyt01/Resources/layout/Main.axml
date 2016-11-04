@@ -3,20 +3,23 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-  <!-- android:background="@drawable/WhiteRosePlastic1">-->
-
-  <ImageButton
-      android:id="@+id/Pyt1Button"
-      android:src="@drawable/Pyt1Button"
-      android:layout_gravity="center"
-      android:layout_width="wrap_content"
-      android:layout_height="120dp" />
-  <TextView
-      android:id="@+id/TextView1"
-      android:layout_gravity="center"
-      android:text="Hello"
-      android:textColor="#ffffff"
-      android:textSize="45dp"
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content" />
+    <ImageButton
+        android:id="@+id/Pyt1Button"
+        android:src="@drawable/Pyt1Button"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:padding="80dp"
+        android:layout_margin="80dp" />
+    <TextView
+        android:id="@+id/TextView1"
+        android:layout_gravity="center"
+        android:text="Hello"
+        android:textColor="#ffffff"
+        android:textSize="45dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minHeight="80dp"
+        android:minWidth="60dp"
+        android:padding="20dp" />
 </LinearLayout>
