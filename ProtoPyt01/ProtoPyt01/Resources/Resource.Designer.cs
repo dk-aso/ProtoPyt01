@@ -76,13 +76,10 @@ namespace ProtoPyt01
 		{
 			
 			// aapt resource value: 0x7f060000
-			public const int Pyt1Button = 2131099648;
+			public const int Pyt2Button = 2131099648;
 			
 			// aapt resource value: 0x7f060001
-			public const int Pyt2Button = 2131099649;
-			
-			// aapt resource value: 0x7f060002
-			public const int TextView1 = 2131099650;
+			public const int TextView1 = 2131099649;
 			
 			static Id()
 			{

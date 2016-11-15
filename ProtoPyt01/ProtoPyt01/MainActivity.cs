@@ -15,7 +15,8 @@ namespace ProtoPyt01
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
-            ImageButton button = FindViewById<ImageButton>(Resource.Id.Pyt1Button);
+            //ImageButton button = FindViewById<ImageButton>(Resource.Id.Pyt1Button);
+            Button button01 = FindViewById<Button>(Resource.Id.Pyt2Button);
             TextView txtView = FindViewById<TextView>(Resource.Id.TextView1);
             string txt1 = "Så PYT da, og nu er det videre med livet";
             string txt2 = "Så er der PYTTET, og der er fri bane frem";
@@ -25,7 +26,7 @@ namespace ProtoPyt01
             string txt6 = "PYT!! Ting sker, og det der er sket lige nu er kun et PYT værd, og skal ikke have inflydelse på dit humør.";
             string txt7 = "Det var så det! Med et PYT er det overstået og får ikke mere indflydelse på dig og dit liv.";
 
-            button.Click += delegate
+            button01.Click += delegate
             {
                 int val = DateTime.Now.Second % 7;
                 switch (val)
