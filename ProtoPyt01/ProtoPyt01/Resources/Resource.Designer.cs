@@ -51,13 +51,16 @@ namespace ProtoPyt01
 			public const int Icon = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int Pyt1Button = 2130837506;
+			public const int MyButtonBackground = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int WhiteRosePLastic = 2130837507;
+			public const int Pyt1Button = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int WhiteRosePLastic1 = 2130837508;
+			public const int WhiteRosePLastic = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int WhiteRosePLastic1 = 2130837509;
 			
 			static Drawable()
 			{
