@@ -3,14 +3,14 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_green_dark">
-    
+    android:background="#F5F5EB">
     <Button
         android:id="@+id/Pyt2Button"
-        android:text="TEST"
+        android:text="PYT"
         android:minHeight="80dp"
         android:minWidth="120dp"
         android:textSize="60dp"
+        android:textStyle="bold"
         android:layout_gravity="center"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
@@ -21,12 +21,13 @@
     <TextView
         android:id="@+id/TextView1"
         android:layout_gravity="center"
-        android:text="Hello"
-        android:textColor="#ffffff"
-        android:textSize="45dp"
+        android:text="Hello Sweety"
+        android:textColor="#494946"
+        android:textStyle="bold"
+        android:textSize="42dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:layout_margin="15dp"
         android:minHeight="80dp"
         android:minWidth="60dp"
         android:padding="20dp" />
