@@ -6,28 +6,29 @@
     android:background="#F5F5EB">
     <Button
         android:id="@+id/Pyt2Button"
-        android:text="PYT"
+        android:text="PYT!"
         android:minHeight="80dp"
         android:minWidth="120dp"
         android:textSize="60dp"
         android:textStyle="bold"
+        android:textColor="#aaaaaa"
         android:layout_gravity="center"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:padding="20dp"
         android:layout_margin="10dp"
-        android:background="@drawable/MyButtonBackground"
-        style="@style/MyStyle" />
+        android:background="@drawable/MyButtonBackground"/>
     <TextView
         android:id="@+id/TextView1"
         android:layout_gravity="center"
-        android:text="Hello Sweety"
+        android:text="Hello Sweetie"
         android:textColor="#494946"
         android:textStyle="bold"
-        android:textSize="42dp"
+        android:textSize="50dp"
+        android:background="@drawable/mytextbackground3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="15dp"
+        android:layout_margin="35dp"
         android:minHeight="80dp"
         android:minWidth="60dp"
         android:padding="20dp" />

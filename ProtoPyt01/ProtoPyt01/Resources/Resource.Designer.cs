@@ -77,12 +77,6 @@ namespace ProtoPyt01
 			// aapt resource value: 0x7f02000a
 			public const int Pyt1Button = 2130837514;
 			
-			// aapt resource value: 0x7f02000b
-			public const int WhiteRosePLastic = 2130837515;
-			
-			// aapt resource value: 0x7f02000c
-			public const int WhiteRosePLastic1 = 2130837516;
-			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -96,11 +90,11 @@ namespace ProtoPyt01
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060000
-			public const int Pyt2Button = 2131099648;
+			// aapt resource value: 0x7f050000
+			public const int Pyt2Button = 2131034112;
 			
-			// aapt resource value: 0x7f060001
-			public const int TextView1 = 2131099649;
+			// aapt resource value: 0x7f050001
+			public const int TextView1 = 2131034113;
 			
 			static Id()
 			{
@@ -143,22 +137,6 @@ namespace ProtoPyt01
 			}
 			
 			private String()
-			{
-			}
-		}
-		
-		public partial class Style
-		{
-			
-			// aapt resource value: 0x7f050000
-			public const int MyStyle = 2131034112;
-			
-			static Style()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Style()
 			{
 			}
 		}
