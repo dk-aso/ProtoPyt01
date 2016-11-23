@@ -4,7 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/holo_green_dark">
-    
     <Button
         android:id="@+id/Pyt2Button"
         android:text="TEST"
@@ -29,5 +28,6 @@
         android:layout_margin="10dp"
         android:minHeight="80dp"
         android:minWidth="60dp"
-        android:padding="20dp" />
+        android:padding="15dp"
+        android:layout_marginBottom="10dp" />
 </LinearLayout>
