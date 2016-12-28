@@ -24,7 +24,7 @@
         android:text="Hello Sweetie"
         android:textColor="#494946"
         android:textStyle="bold"
-        android:textSize="50dp"
+        android:textSize="40dp"
         android:background="@drawable/mytextbackground3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
