@@ -93,14 +93,11 @@ namespace ProtoPyt01
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050000
-			public const int Pyt2Button = 2131034112;
-			
-			// aapt resource value: 0x7f050002
-			public const int Pyt3Button = 2131034114;
-			
 			// aapt resource value: 0x7f050001
-			public const int TextView1 = 2131034113;
+			public const int Pyt3Button = 2131034113;
+			
+			// aapt resource value: 0x7f050000
+			public const int TextView1 = 2131034112;
 			
 			static Id()
 			{
